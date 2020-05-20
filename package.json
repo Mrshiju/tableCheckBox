@@ -5,10 +5,10 @@
   "author": "Mrshiju <44224105+Mrshiju@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
-  "main":"dist/tableCheckbox.js",
+  "main": "dist/tableCheckbox.js",
   "repository": {
     "type": "git",
-    "url":  "https://github.com/Mrshiju/tableCheckBox.git"
+    "url": "https://github.com/Mrshiju/tableCheckBox.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
